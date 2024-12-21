@@ -121,7 +121,7 @@ namespace Project.V15
         }
 
         private void groupBoxRes_EEI_Enter(object sender, EventArgs e)
-        {
+        { 
 
         }
 
